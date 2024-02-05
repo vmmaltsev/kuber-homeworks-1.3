@@ -12,6 +12,20 @@
 
 Ответ:
 
+Манифесты расположены в директории https://github.com/vmmaltsev/kuber-homeworks-1.3/tree/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201
+
+Скриншоты
+
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_109.png)
+
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_110.png)
+
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_111.png)
+
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_112.png)
+
+
+
 
 ---
 
@@ -23,4 +37,12 @@
     4. Продемонстрировать состояние пода до и после запуска сервиса.
 
 Ответ:
+
+Манифесты расположены в директории https://github.com/vmmaltsev/kuber-homeworks-1.3/tree/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202
+
+Скриншоты
+
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_113.png)
+
+![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_114.png)
 
